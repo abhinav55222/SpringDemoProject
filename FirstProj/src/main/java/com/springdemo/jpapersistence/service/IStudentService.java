@@ -9,5 +9,7 @@ public interface IStudentService {
 	public List<Student> getStudents();
 	public Optional<Student> getStudentbyId(long Id);
 	public void deleteStudentbyId(long Id);
+	
+	public void addStudent(Student student);
 
 }

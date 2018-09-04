@@ -33,4 +33,10 @@ public class StudentServiceImpl implements IStudentService {
 		
 	}
 
+	@Override
+	public void addStudent(Student student) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
