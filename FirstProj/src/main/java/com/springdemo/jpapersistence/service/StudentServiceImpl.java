@@ -37,6 +37,8 @@ public class StudentServiceImpl implements IStudentService {
 	public void addStudent(Student student) {
 		// TODO Auto-generated method stub
 		
+		//dummy implementation of add user
+		
 	}
 
 }
