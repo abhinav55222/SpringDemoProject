@@ -41,10 +41,16 @@ public class StudentServiceImpl implements IStudentService {
 		
 		// more funcionalty
 		
+<<<<<<< HEAD
 		//4
 		//5
 		//6
 		
+=======
+		//1
+		//2
+		//3
+>>>>>>> mydev
 	}
 
 }
